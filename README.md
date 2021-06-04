@@ -42,5 +42,5 @@ crypton --decrypt-file "C:/path/to/my/file.txt.encf" --passphrase "my secret pas
 <p>
 This will decrypt the entered file with the passphrase my secret passphrase
 <br/>
-  <b><p style="color: red;">(!)</p> This will throw an InvalidKeyException if the password is invalid</b>
+  <b><span style="color: red;">(!)</span> This will throw an InvalidKeyException if the password is invalid</b>
 </p>
