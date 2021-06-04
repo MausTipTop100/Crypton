@@ -32,10 +32,13 @@ crypton --encrypt-file "C:/path/to/my/file.txt" --passphrase "my secret passphra
 ```
 
 <p>This will encrypt the entered file with the passphrase my secret passphrase</p>
+<br/>
 <h5>Decrypting files</h5>
-```shell
+
+```
 crypton --decrypt-file "C:/path/to/my/file.txt.encf" --passphrase "my secret passphrase"
 ```
+
 <p>
 This will decrypt the entered file with the passphrase my secret passphrase
   <b>This will throw an InvalidKeyException of the password is invalid</b>
