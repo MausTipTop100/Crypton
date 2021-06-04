@@ -26,8 +26,8 @@
 
 <h3>Samples</h3>
 <h5>Encrypting files</h5>
-```shell
-crypton --encrypt-file "C:/path/to/my/file.txt" --passphrase "my secret passphrase"
+```
+  crypton --encrypt-file "C:/path/to/my/file.txt" --passphrase "my secret passphrase"
 ```
 <p>This will encrypt the entered file with the passphrase my secret passphrase</p>
 <h5>Decrypting files</h5>
