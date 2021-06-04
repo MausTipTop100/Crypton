@@ -23,3 +23,18 @@
     <td>Sets the passphrase for your en- and decryption tasks.</td>
   </tr>
 </table>
+
+<h3>Samples</h3>
+<h5>Encrypting files</h5>
+```
+crypton --encrypt-file "C:/path/to/my/file.txt" --passphrase "my secret passphrase"
+```
+<p>This will encrypt the entered file with the passphrase my secret passphrase</p>
+<h5>Decrypting files</h5>
+```
+crypton --decrypt-file "C:/path/to/my/file.txt.encf" --passphrase "my secret passphrase"
+```
+<p>
+This will decrypt the entered file with the passphrase my secret passphrase
+  <b>This will throw an InvalidKeyException of the password is invalid</b>
+</p>
