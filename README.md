@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>Windows</td>
-    <td>[Download from TheMausCode]()</td>
+    <td><a href="">Download from TheMausCode</a></td>
 </table>
 
 <h1>Crypton Manual</h1>
