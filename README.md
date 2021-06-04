@@ -28,8 +28,7 @@
 <h5>Encrypting files</h5>
 
 ```
-  crypton --encrypt-file "C:/path/to/my/file.txt" --passphrase "my secret passphrase"
-  test
+crypton --encrypt-file "C:/path/to/my/file.txt" --passphrase "my secret passphrase"
 ```
 
 <p>This will encrypt the entered file with the passphrase my secret passphrase</p>
