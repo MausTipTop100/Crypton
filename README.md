@@ -46,3 +46,29 @@ This will decrypt the entered file with the passphrase my secret passphrase
 <br/>
   <b>(!) This will throw an InvalidKeyException if the password is invalid</b>
 </p>
+
+<h2>Installation Manual</h2>
+<h3>Windows</h3>
+
+At first you need to download the ZIP file [here](https://google.com).
+Then extract the ZIP file
+
+There are several batch files in the ZIP file.
+<table>
+  <tr>
+    <th>File</th>
+    <th>Action</th>
+  <tr>
+  <tr>
+    <td>INSTALL.bat</td>
+    <td>Execute to install</td>
+  </tr>
+  <tr>
+    <td>UPDATE.bat</td>
+    <td>Execute to re-install / update</td>
+  </tr>
+  <tr>
+    <td>UNINSTALL.bat</td>
+    <td>Execute to uninstall</td>
+  </tr>
+</table>
