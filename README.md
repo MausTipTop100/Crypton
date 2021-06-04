@@ -1,7 +1,15 @@
 # Crypton
 <h3>Welcome to Crypton!</h3>
-
-[Download Crypton](https://google.com)
+<h4>Downloads</h4>
+<table>
+  <tr>
+    <th>OS</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>[Download from TheMausCode]()</td>
+</table>
 
 <h1>Crypton Manual</h1>
 <h2>Encryption Manual</h2>
@@ -50,7 +58,7 @@ This will decrypt the entered file with the passphrase my secret passphrase
 <h2>Installation Manual</h2>
 <h3>Windows</h3>
 
-At first you need to download the ZIP file [here](https://google.com).
+At first you need to download the ZIP file [here]().
 Then extract the ZIP file
 
 There are several batch files in the ZIP file.
