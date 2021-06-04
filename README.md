@@ -26,12 +26,12 @@
 
 <h3>Samples</h3>
 <h5>Encrypting files</h5>
-```
+```batch
 crypton --encrypt-file "C:/path/to/my/file.txt" --passphrase "my secret passphrase"
 ```
 <p>This will encrypt the entered file with the passphrase my secret passphrase</p>
 <h5>Decrypting files</h5>
-```
+```batch
 crypton --decrypt-file "C:/path/to/my/file.txt.encf" --passphrase "my secret passphrase"
 ```
 <p>
