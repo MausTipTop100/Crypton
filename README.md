@@ -1,6 +1,8 @@
 # Crypton
 <h3>Welcome to Crypton!</h3>
 
+<button>Download Crypton</button>
+
 <h1>Crypton Manual</h1>
 <h2>Encryption Manual</h2>
 <h3>Arguments</h3>
