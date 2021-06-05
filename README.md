@@ -1,15 +1,6 @@
 # Crypton
 <h3>Welcome to Crypton!</h3>
-<h4>Downloads</h4>
-<table>
-  <tr>
-    <th>OS</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Windows</td>
-    <td><a href="">Download from TheMausCode</a></td>
-</table>
+<h4><a href="cryptonapp.netlify.app">Download</a></h4>
 
 <h1>Crypton Manual</h1>
 <h2>Encryption Manual</h2>
@@ -58,7 +49,7 @@ This will decrypt the entered file with the passphrase my secret passphrase
 <h2>Installation Manual</h2>
 <h3>Windows</h3>
 
-At first you need to download the ZIP file [here]().
+At first you need to download the ZIP file [here](https://cryptonapp.netlify.app).
 Then extract the ZIP file
 
 There are several batch files in the ZIP file.
